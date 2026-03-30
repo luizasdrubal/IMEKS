@@ -1,0 +1,67 @@
+
+    /*Estilo do Body*/
+    body {
+        background-color: #472a7d; 
+        color:white;
+    }
+
+    /*Estilo do Rodapé*/
+    footer {
+        position: absolute;
+        bottom : 0;
+    }
+
+    /*Imagem*/
+    img {
+        width: 200px; 
+        height: 200px;
+    }
+
+    .footer-style {
+        background: white;
+        color: black;
+        font-size: 12px;
+    }
+
+    .footer-font2{
+        color: lightgrey;
+        padding-top: 8px;
+    }
+
+    /*Style da Seção*/
+    section {
+        /*tamanho vertical*/
+        height: 100vh; /*aqui a altura vai ser adequada ao tamanho da imagem para permitir a visualização total*/
+        height: 450px; /*aqui a altura fica fixa e a imagem vai ser cortada*/
+
+        /*atributos da imagem*/
+        background-image: url('../assets/Fundo_Index.png');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+
+        /*aplicação de filtro de cor na imagem*/
+        filter: grayscale(80%);
+        opacity: 50%;
+        box-shadow: inset 35px 35px 65px #472a7d ;
+
+        /*outros filtros
+        filter:sepia(50%);
+        filter:blur(100%);
+        */
+             
+        /*alinhamento*/
+        width: center;
+        justify-content: center;
+        display: flex;
+    }
+
+    .pad-right {
+        padding-right: 25px;
+    }
+
+
+
+
+
+

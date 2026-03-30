@@ -1,0 +1,115 @@
+/*Estilo de Font*/
+    .roboto-400 {
+        font-family: "Roboto", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        font-variation-settings: "wdth" 100;
+    }
+
+/*Estilo do Header*/
+    .header-style {
+            padding-left: 20px; 
+            padding-right: 20px; 
+            background: #472a7d; 
+            display: flex; 
+            justify-content: space-between; 
+            align-items: center;
+    }
+
+/*Estilo do Body*/
+    .body {
+            background-color: lightgray; color:white;
+    }
+
+/*Classes de Alinhamento*/
+/*Estilo do Container*/    
+    .container {
+            display:flex;
+            justify-content: center;    
+            flex-direction: column;   
+            align-items: center;
+    }
+
+ /* Centraliza Texto*/        
+    .center {
+                display: flex;
+                align-items: center;
+    }
+
+/*Classes de Botões*/
+/*Estilo do Botão 1*/    
+    .button1-style {
+            color: #472a7d; 
+            background: white; 
+            border: 1px solid #472a7d; 
+            margin-right: 5px; 
+            padding: 18px; 
+            border-radius: 30px;
+    }
+
+/*Estilo do Botão 2*/    
+    .button2-style {
+            color: white; 
+            background: #472a7d; 
+            border: 1px solid #472a7d; 
+            margin-right: 5px; 
+            padding: 18px; 
+            border-radius: 30px;
+    }
+
+    /*Tira a marca do hyperlink */
+    a { 
+        text-decoration: none;
+        color: darkgray;
+    }
+
+    /*Estilo do Nome da Empresa*/
+    .h1-style {
+        padding-left: 10px;
+        color: #472a7d
+    }    
+
+    /* Estilo para voltar*/
+    .style-voltar {
+        text-decoration: none;
+        color:darkgray;
+    } 
+    
+    .text-center{
+        position:relative;
+        text-align:center;
+    }
+
+/*Fundo de Página*/
+    .bg-page {
+        background: orange;
+    }
+
+/*Fundo de Painel*/    
+    .bg-panel {
+        background: green;
+    }
+    
+.caption {
+    font-size: 13px;
+    color: gray;
+}
+
+.bt-1 {
+    border: 1px solid purple;
+    padding: 10px;
+    border-radius: 6px;
+    background: purple;
+    color: white;
+    width: 100%;        
+}
+
+.bt-google {
+    border: 1px solid darkgray;
+    padding: 10px;
+    border-radius: 6px;
+    background: white;
+    margin: 20px;
+    width: 90%;        
+}

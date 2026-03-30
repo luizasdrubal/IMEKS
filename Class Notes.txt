@@ -1,0 +1,18 @@
+
+Logo creation
+
+Opção 1: Logotipo Moderno e Dinâmico
+
+Ícone: Uma seta ascendente estilizada que se transforma em um globo terrestre, simbolizando o crescimento e a internacionalização dos negócios. As cores vibrantes (azul, verde e amarelo) transmitem energia e otimismo.
+
+Tipografia: Uma fonte sans-serif moderna e limpa, fácil de ler e que transmite profissionalismo.
+
+Cores: Azul (confiança, segurança, profissionalismo), verde (crescimento, esperança, sustentabilidade) e amarelo (otimismo, energia, criatividade).
+
+Significado: Representa a ambição das micro e pequenas empresas de expandir seus horizontes e conquistar novos mercados.
+
+https://www.mercadolivre.com.br/electrolux-essential-care-led15-127v-branco/p/MLB19037310?product_trigger_id=MLB19037310&attributes=COLOR%3ABranco%2CVOLTAGE%3A127V_vpp&picker=true&quantity=1
+
+
+======== Bootstrap
+https://getbootstrap.com/

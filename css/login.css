@@ -1,0 +1,87 @@
+.container-login {
+    display: flex;
+    height: 100vh;
+}
+
+.left {
+    width: 40%;
+    background: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    display: grid;
+} 
+
+.font-welcome {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.font-sub-welcome {
+    font-size: 16px;
+    color: gray;
+}
+
+
+
+.borda-login{
+    /* atributos imagem*/
+    background-image: url("../assets/fundo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    /* filtro imagem */
+    filter: grayscale(60%);
+    
+    /* espaçamento imagem */
+    padding: 50px
+}
+
+.input-email-login {
+    border: 1px solid darkgray;
+    padding: 10px;
+    border-radius: 4px;
+    background: white;
+    width: 100%;
+}   
+
+.input-senha-login {
+    border: 1px solid darkgray;
+    padding: 10px;
+    border-radius: 4px;
+    background: white;
+    width: 100%;
+    margin-top: 30px;
+}   
+
+.right {
+    /*alinhamento*/
+    width: 60%;
+    background: black;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    font-size: 16px;    
+
+    /* Atributos de Imagem */
+    background-image: url("../assets/Login.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+
+    /*aplicação de filtro de cor na imagem*/
+    /* opacity: 50%;*/
+    /*box-shadow: inset 35px 35px 65px darkorange ;*/
+
+    /*outros filtros
+    filter: grayscale(80%);  
+    filter:sepia(50%);
+    filter:blur(100%);
+    */          
+ 
+}
