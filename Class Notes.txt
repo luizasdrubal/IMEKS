@@ -16,3 +16,12 @@ https://www.mercadolivre.com.br/electrolux-essential-care-led15-127v-branco/p/ML
 
 ======== Bootstrap
 https://getbootstrap.com/
+
+git branch - indica onde em qual branch estamos
+
+buscar as melhores praticas de uso do git hub
+
+pesquisar sobre os code reviewers e suas responsabilidades
+
+
+
